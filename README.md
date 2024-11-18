@@ -45,3 +45,4 @@ To keep track of my projects and progress, with a focus on developing skills for
   - Progressing through TryHackMe's structured learning paths, such as Intro to Cybersecurity, Pre-Security, and Jr. Pen Tester.  
   - Solved Tier 2 CTF challenges involving web exploitation, cryptographic puzzles, packet analysis, and exploit development.  
   - Applied tools like Hydra for brute-forcing, CyberChef for decoding, Wireshark for analyzing packet captures, and Metasploit for exploiting vulnerabilities.
+  - *I will publish a write-up for this once the challenge is closed*
