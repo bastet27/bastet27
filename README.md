@@ -9,10 +9,12 @@ To keep track of my projects and progress, with a focus on developing skills for
 ## Skills
 - *Currently exploring and gaining hands-on experience in the following areas.*
 
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-| [Your skill here]                             | [Your project link here]   |
-| [Your skill here]                             | [Your project link here]   |
+| Skill                                | Description                                                                                 |
+|--------------------------------------|---------------------------------------------------------------------------------------------|
+| Cryptographic Analysis               | Solved cipher, hashing, and decryption challenges. [WiCyS Tier 2 CTF](link)                 |
+| Digital Forensics and Incident Response (DFIR) | Analyzed PCAPs and recovered corrupted files. [WiCyS Tier 2 CTF](link)            |
+| Exploit Development                  | Used Metasploit to exploit vulnerabilities. [WiCyS Tier 2 CTF](link)                        |
+
 
 ## Tools
 - *This section is for listing the tools I use, divided into categories such as Network, SIEM, and Endpoint.*
@@ -38,4 +40,8 @@ To keep track of my projects and progress, with a focus on developing skills for
 *Currently, I have no certifications, but I am exploring training and certification options.*
 
 ## Projects
-- **WiCyS SANS Security Scholarship** – Currently participating in the scholarship program to gain practical experience and training.
+- **WiCyS SANS Security Scholarship**  
+  Participating in the [WiCyS Security Training Scholarship](https://www.wicys.org/benefits/security-training-scholarship/), which includes:  
+  - Progressing through TryHackMe's structured learning paths, such as Intro to Cybersecurity, Pre-Security, and Jr. Pen Tester.  
+  - Solved Tier 2 CTF challenges involving web exploitation, cryptographic puzzles, packet analysis, and exploit development.  
+  - Applied tools like Hydra for brute-forcing, CyberChef for decoding, Wireshark for analyzing packet captures, and Metasploit for exploiting vulnerabilities.
