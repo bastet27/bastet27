@@ -9,11 +9,14 @@ To keep track of my projects and progress, with a focus on developing skills for
 ## Skills
 - *Currently exploring and gaining hands-on experience in the following areas.*
 
-| Skill                                | Description                                                                                 |
-|--------------------------------------|---------------------------------------------------------------------------------------------|
-| Cryptographic Analysis               | Solved cipher, hashing, and decryption challenges. [WiCyS Tier 2 CTF](link)                 |
-| Digital Forensics and Incident Response (DFIR) | Analyzed PCAPs and recovered corrupted files. [WiCyS Tier 2 CTF](link)            |
-| Exploit Development                  | Used Metasploit to exploit vulnerabilities. [WiCyS Tier 2 CTF](link)                        |
+| Skill                                | Description                                                                                   |
+|--------------------------------------|-----------------------------------------------------------------------------------------------|
+| Cryptographic Analysis               | Solved cipher, hashing, and decryption challenges. [WiCyS Tier 2 CTF](#)                      |
+| Digital Forensics and Incident Response (DFIR) | Analyzed PCAPs and recovered corrupted files. [WiCyS Tier 2 CTF](#)                           |
+| Exploit Development                  | Used Metasploit to exploit vulnerabilities. [WiCyS Tier 2 CTF](#)                            |
+| Vulnerability Scanning               | Identified open ports and services using tools like Nmap and Gobuster. [WiCyS Tier 2 CTF](#) |
+| Web Application Security             | Performed web exploitation tasks like brute-forcing and SQL injection during CTF challenges. [WiCyS Tier 2 CTF](#) |
+
 
 
 ## Tools
