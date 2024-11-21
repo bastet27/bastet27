@@ -11,11 +11,11 @@ To keep track of my projects and progress, with a focus on developing skills for
 
 | Skill                                | Description                                                                                   |
 |--------------------------------------|-----------------------------------------------------------------------------------------------|
-| Cryptographic Analysis               | Solved cipher, hashing, and decryption challenges. [WiCyS Tier 2 CTF](#)                      |
-| Digital Forensics and Incident Response (DFIR) | Analyzed PCAPs and recovered corrupted files. [WiCyS Tier 2 CTF](#)                           |
-| Exploit Development                  | Used Metasploit to exploit vulnerabilities. [WiCyS Tier 2 CTF](#)                            |
-| Vulnerability Scanning               | Identified open ports and services using tools like Nmap and Gobuster. [WiCyS Tier 2 CTF](#) |
-| Web Application Security             | Performed web exploitation tasks like brute-forcing and SQL injection during CTF challenges. [WiCyS Tier 2 CTF](#) |
+| Cryptographic Analysis               | Solved cipher, hashing, and decryption challenges. [WiCyS Tier 2 CTF](https://github.com/bastet27/Tier2-WiCys-CTF-2024)                      |
+| Digital Forensics and Incident Response (DFIR) | Analyzed PCAPs and recovered corrupted files. [WiCyS Tier 2 CTF](https://github.com/bastet27/Tier2-WiCys-CTF-2024)                           |
+| Exploit Development                  | Used Metasploit to exploit vulnerabilities. [WiCyS Tier 2 CTF](https://github.com/bastet27/Tier2-WiCys-CTF-2024)                            |
+| Vulnerability Scanning               | Identified open ports and services using tools like Nmap and Gobuster. [WiCyS Tier 2 CTF](https://github.com/bastet27/Tier2-WiCys-CTF-2024) |
+| Web Application Security             | Performed web exploitation tasks like brute-forcing and SQL injection during CTF challenges. [WiCyS Tier 2 CTF](https://github.com/bastet27/Tier2-WiCys-CTF-2024) |
 
 
 
@@ -43,9 +43,10 @@ To keep track of my projects and progress, with a focus on developing skills for
 *Currently, I have no certifications, but I am exploring training and certification options.*
 
 ## Projects
-- **WiCyS SANS Security Scholarship**  
+- [WiCyS SANS Security Scholarship](https://github.com/bastet27/Tier2-WiCys-CTF-2024)
+
   Participating in the [WiCyS Security Training Scholarship](https://www.wicys.org/benefits/security-training-scholarship/), which includes:  
   - Progressing through TryHackMe's structured learning paths, such as Intro to Cybersecurity, Pre-Security, and Jr. Pen Tester.  
   - Solved Tier 2 CTF challenges involving web exploitation, cryptographic puzzles, packet analysis, and exploit development.  
   - Applied tools like Hydra for brute-forcing, CyberChef for decoding, Wireshark for analyzing packet captures, and Metasploit for exploiting vulnerabilities.
-  - *I will publish a write-up for this once the challenge is closed*
+
