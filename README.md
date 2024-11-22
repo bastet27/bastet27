@@ -11,11 +11,11 @@ To keep track of my projects and progress, with a focus on developing skills for
 
 | Skill                                | Description                                                                                   |
 |--------------------------------------|-----------------------------------------------------------------------------------------------|
-| Cryptographic Analysis               | Solved cipher, hashing, and decryption challenges. [WiCyS Tier 2 CTF](https://github.com/bastet27/Tier2-WiCys-CTF-2024)                      |
-| Digital Forensics and Incident Response (DFIR) | Analyzed PCAPs and recovered corrupted files. [WiCyS Tier 2 CTF](https://github.com/bastet27/Tier2-WiCys-CTF-2024)                           |
-| Exploit Development                  | Used Metasploit to exploit vulnerabilities. [WiCyS Tier 2 CTF](https://github.com/bastet27/Tier2-WiCys-CTF-2024)                            |
-| Vulnerability Scanning               | Identified open ports and services using tools like Nmap and Gobuster. [WiCyS Tier 2 CTF](https://github.com/bastet27/Tier2-WiCys-CTF-2024) |
-| Web Application Security             | Performed web exploitation tasks like brute-forcing and SQL injection during CTF challenges. [WiCyS Tier 2 CTF](https://github.com/bastet27/Tier2-WiCys-CTF-2024) |
+| Cryptographic Analysis               | Solved cipher, hashing, and decryption challenges. [WiCyS Tier 2 CTF]                      |
+| Digital Forensics and Incident Response (DFIR) | Analyzed PCAPs and recovered corrupted files. [WiCyS Tier 2 CTF]                        |
+| Exploit Development                  | Used Metasploit to exploit vulnerabilities. [WiCyS Tier 2 CTF]                       |
+| Vulnerability Scanning               | Identified open ports and services using tools like Nmap and Gobuster. [WiCyS Tier 2 CTF]|
+| Web Application Security             | Performed web exploitation tasks like brute-forcing and SQL injection during CTF challenges. [WiCyS Tier 2 CTF] |
 
 
 
