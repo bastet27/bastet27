@@ -40,7 +40,7 @@ To keep track of my projects and progress, with a focus on developing skills for
 
 ## 🖤 Projects
 
-- [SOC Automation Lab](https://github.com/bastet27/SOC-Automation-Lab)  
+- [SOC Automation Lab](https://github.com/bastet27/SOC-Lab1)
   Developing a home lab to simulate a Security Operations Center (SOC) environment for hands-on learning. Key milestones include:  
   - **Installing Wazuh**: Deployed on an AWS EC2 instance using the AWS Free Tier to monitor logs and analyze alerts.  
   - Configured firewall rules and security groups for secure access to the Wazuh dashboard.  
