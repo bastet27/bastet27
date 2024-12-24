@@ -1,62 +1,81 @@
 # Hello, I'm bastet27 🖤
+Welcome to my GitHub page! 
 
-## 🖤 Introduction
-I am a Cybersecurity student with an interest in pentesting and Digital Forensics and Incident Response (DFIR). Currently building skills and working on projects to track my growth in the field. 
+## Introduction 🖤  
+I am a Cybersecurity student with an interest in pentesting and Digital Forensics and Incident Response (DFIR). While I am still exploring the different areas of cybersecurity, I am passionate about building a strong foundation of skills and knowledge to discover where my true strengths and interests lie. This page serves as a reflection of my journey and the projects that help me grow in this ever-evolving field.  
 
-## 🖤 Objective
-To keep track of my projects and progress, with a focus on developing skills for potential roles in pentesting or DFIR.
+## Objective 🖤  
+The purpose of my GitHub is to track my learning, monitor my progress, and showcase the skills I am developing in the cybersecurity field. Through various projects and challenges, I aim to demonstrate my technical abilities while highlighting areas I am actively working to improve.  
 
-## 🖤 Skills
+## Skills 🖤  
 
-| Skill                                | Description                                                                                   |
-|--------------------------------------|-----------------------------------------------------------------------------------------------|
-| Cryptographic Analysis               | Solved cipher, hashing, and decryption challenges. [WiCyS Tier 2 CTF](#)                      |
-| Digital Forensics and Incident Response (DFIR) | Analyzed PCAPs and recovered corrupted files. [WiCyS Tier 2 CTF](#)                        |
-| Exploit Development                  | Used Metasploit to exploit vulnerabilities. [WiCyS Tier 2 CTF](#)                       |
-| Vulnerability Scanning               | Identified open ports and services using tools like Nmap and Gobuster. [WiCyS Tier 2 CTF](#)|
-| Web Application Security             | Performed web exploitation tasks like brute-forcing and SQL injection during CTF challenges. [WiCyS Tier 2 CTF](#) |
-| Security Operations                  | Deployed Wazuh on AWS to monitor logs and analyze alerts. [SOC Automation Lab](https://github.com/bastet27/SOC-Lab1)             |
-| Log Analysis                         | Investigated alerts in Elastic SIEM as part of the TryHackMe Advent of Cyber challenges, identifying true and false positives.  |
+| Skill                              | Description                                                                                       | Project                                |
+|------------------------------------|---------------------------------------------------------------------------------------------------|----------------------------------------|
+| Cryptographic Analysis             | Solved cipher, hashing, and decryption challenges.                                                | [WiCyS SANS Security Scholarship](#)  |
+| Digital Forensics and Incident Response (DFIR) | Analyzed PCAP files, reconstructed events, and recovered critical data during investigations.       | [TryHackMe Advent of Cyber 2024](#)   |
+| Exploit Development                | Leveraged tools like Metasploit for identifying and exploiting vulnerabilities.                   | [WiCyS SANS Security Scholarship](#)  |
+| Log Analysis                       | Investigated and filtered logs to identify true positives and false positives in SIEM solutions.  | [TryHackMe Advent of Cyber 2024](#)   |
+| Pentesting                         | Conducted web exploitation tasks, such as brute-forcing and SQL injection, during CTF challenges. | [WiCyS SANS Security Scholarship](#)  |
+| SIEM Monitoring and Alert Analysis | Configured and used Wazuh for log monitoring, alert generation, and analysis.                     | [SOC Automation Lab](https://github.com/bastet27/SOC-Lab1) |
+| Vulnerability Scanning             | Used tools like Nmap and Shodan for scanning, discovery, and assessing open ports and services.   | [WiCyS SANS Security Scholarship](#)  |
 
-## 🖤 Tools
+## Tools 🖤  
 
-### Endpoint
-*Tools for endpoint security are currently being explored and will include solutions like antivirus, EDR (Endpoint Detection and Response), and file integrity monitoring systems.*
+### Endpoint  
+- *Currently exploring tools such as antivirus, EDR (Endpoint Detection and Response), and file integrity monitoring systems.*  
 
-### Network
-- [Nmap](https://nmap.org/): A powerful network scanning tool used for discovering hosts and services on a network.
-- [Shodan](https://www.shodan.io/): A search engine that allows you to find specific types of computers (webcams, routers, servers, etc.) connected to the internet.
-- [Wireshark](https://www.wireshark.org/): Used to analyze packets and detect anomalies.
+### Network  
+- [Nmap](https://nmap.org/): A network scanning tool used for discovering hosts and services.  
+- [Shodan](https://www.shodan.io/): A search engine for finding specific types of internet-connected devices.  
+- [Wireshark](https://www.wireshark.org/): A packet analyzer used for network troubleshooting and analysis.  
 
-### Pentesting Tools
-- [Burp Suite](https://portswigger.net/burp): A web application security testing platform, currently being learned to identify and exploit vulnerabilities in web applications.
-- [Metasploit](https://www.metasploit.com/): A penetration testing framework, currently being explored for developing and executing exploit code.
+### Pentesting  
+- [Burp Suite](https://portswigger.net/burp): A web application security testing platform.  
+- [Metasploit](https://www.metasploit.com/): A penetration testing framework for exploiting vulnerabilities.  
 
-### SIEM
-- [Elastic SIEM](https://www.elastic.co/security/siem): A security analytics tool used to investigate alerts and differentiate between true and false positives during the TryHackMe Advent of Cyber challenges.
-- [Wazuh](https://documentation.wazuh.com/current/): A SIEM solution used to monitor logs and analyze alerts, deployed as part of the SOC Automation Lab for hands-on learning.
+### SIEM  
+- [Elastic SIEM](https://www.elastic.co/security/siem): A security analytics tool for investigating alerts and differentiating between true and false positives.  
+- [Wazuh](https://documentation.wazuh.com/current/): A SIEM solution for monitoring logs and analyzing alerts.  
 
-### Utilities
-- [CyberChef](https://gchq.github.io/CyberChef/): A versatile data analysis and decoding tool used for tasks like decoding Base64-encoded PowerShell commands, parsing logs, and transforming data during investigations.
+### Utilities  
+- [CyberChef](https://gchq.github.io/CyberChef/): A versatile data analysis and decoding tool.  
 
-## 🖤 Certifications
-*Currently, I have no certifications, but I am exploring training and certification options.*
+## Certifications 🖤  
+*Currently exploring training and certification options to enhance my skills and validate expertise.*  
 
-## 🖤 Projects
+## Projects 🖤  
 
-- [SOC Automation Lab](https://github.com/bastet27/SOC-Lab1)  
-  Developing a home lab to simulate a Security Operations Center (SOC) environment for hands-on learning. Key milestones include:  
-  - **Installing Wazuh**: Deployed on an AWS EC2 instance using the AWS Free Tier to monitor logs and analyze alerts.  
-  - Configured firewall rules and security groups for secure access to the Wazuh dashboard.  
-  - Preparing to integrate tools like Shuffle (SOAR) and The Hive (Case Management) to enhance automation and incident response capabilities.
+- **[SOC Automation Lab](https://github.com/bastet27/SOC-Lab1)**  
+  This ongoing project simulates a Security Operations Center (SOC) environment for hands-on learning.  
+  - **Progress:**  
+    - Deployed Wazuh on an AWS EC2 instance to monitor logs and analyze alerts.  
+    - Configured firewall rules and security groups for secure access to the Wazuh dashboard.  
+    - Future plans include integrating SOAR tools like Shuffle and case management solutions like The Hive to enhance automation and incident response capabilities.  
 
-- [TryHackMe Advent of Cyber 2024](#)
-  Participating in this month-long challenge to sharpen my SOC skills. Each challenge focuses on practical cybersecurity scenarios, including log analysis, investigating alerts, and differentiating between true and false positives.  
-  - **Progress:** Logs and investigations analyzed for Day 1 and Day 2.  
-  - **Write-Ups:** To avoid spoiling the event for others, detailed write-ups will be shared after the challenge ends.  
+- **[TryHackMe Advent of Cyber 2024](#)**  
+  Participating in this annual month-long challenge, which involves solving practical cybersecurity tasks in a holiday-themed narrative.  
+  - **Key Focus Areas:** Tasks include malware analysis, reverse engineering, log analysis, web security, and cryptographic challenges.  
+  - **Progress:** Successfully completed Days 1 through 23, with detailed write-ups for each challenge to be shared post-event.  
 
-- [WiCyS SANS Security Scholarship](#)  
-  Participating in the [WiCyS Security Training Scholarship](https://www.wicys.org/benefits/security-training-scholarship/), which includes:  
-  - Progressing through TryHackMe's structured learning paths, such as Intro to Cybersecurity, Pre-Security, and Jr. Pen Tester.  
-  - Solved Tier 2 CTF challenges involving web exploitation, cryptographic puzzles, packet analysis, and exploit development.  
-  - Applied tools like Hydra for brute-forcing, CyberChef for decoding, Wireshark for analyzing packet captures, and Metasploit for exploiting vulnerabilities.
+- **[WiCyS Mentorship Program](#)**  
+ Participating in this 9-month mentorship program to develop professional skills and advance my expertise in cybersecurity.
+  - **Session Topics:**  
+    - **October: Welcome and Goal Setting**  
+      - Introductions, goal setting, and group meeting cadences.  
+      - Discussed inclusivity, mentoring strategies, and personal/professional development goals.  
+      - Utilized materials like the WiCyS Goal Setting Worksheet and inclusive language resources.  
+    - **November: Influence**  
+      - Explored body language, authority, and strategies for impactful communication.  
+      - Reviewed articles and podcasts on leadership and influence.  
+      - Participated in CyberGEN.IQ assessments and discussions.  
+    - **December: Branding, Self-Presentation & CyberGEN.IQ**  
+      - Focused on resume reviews, LinkedIn tips, and creating elevator pitches.  
+      - Evaluated personal branding and body language for self-presentation in cybersecurity.  
+      - Attended webinars on understanding CyberGEN.IQ results and aligning goals.  
+
+- **[WiCyS SANS Security Scholarship](#)**  
+  Advanced to Tier 3 of this competitive, multi-tiered scholarship program aimed at identifying and developing cybersecurity talent.  
+  - **Tier 1:** Participated in the SANS BootUp CTF challenge hosted on the Ranges.io platform. Placed **363rd out of 2000 participants** to advance to Tier 2.  
+  - **Tier 2:** Completed structured TryHackMe learning paths (*Intro to Cybersecurity*, *Pre-Security*, *Jr. Pen Tester*, and *Cybersecurity 101*) and participated in a CTF challenge. Advanced to **Tier 3** as one of 350 participants.  
+  - **Tier 3:** Completed the CyberGen.iQ assessment, which evaluated critical thinking and personality traits. Advancement to Tier 4 will depend on Tier 1 and Tier 2 performance, along with the essay submitted in the initial application.  
+  - **Current Status:** Awaiting results for Tier 4 eligibility.  
