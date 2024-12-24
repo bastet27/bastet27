@@ -19,26 +19,14 @@ The purpose of my GitHub is to track my learning, monitor my progress, and showc
 | SIEM Monitoring and Alert Analysis | Configured and used Wazuh for log monitoring, alert generation, and analysis.                     | [SOC Automation Lab](https://github.com/bastet27/SOC-Lab1) |
 | Vulnerability Scanning             | Used tools like Nmap and Shodan for scanning, discovery, and assessing open ports and services.   | [WiCyS SANS Security Scholarship](#)  |
 
-## Tools 🖤  
+## Tools 🖤
 
-### Endpoint  
-- *Currently exploring tools such as antivirus, EDR (Endpoint Detection and Response), and file integrity monitoring systems.*  
+| **Endpoint**          | **Network**                         | **Pentesting**                                | **SIEM**                                | **Utilities**                                  |
+|-----------------------|-------------------------------------|-----------------------------------------------|------------------------------------------|--------------------------------------------------|
+| *Coming Soon!*         | [Nmap](https://nmap.org/) - A network scanning tool used for discovering hosts and services. | [Burp Suite](https://portswigger.net/burp) - A web application security testing platform. | [Elastic SIEM](https://www.elastic.co/security/siem) - A security analytics tool for investigating alerts and differentiating between true and false positives. | [CyberChef](https://gchq.github.io/CyberChef/) - A versatile data analysis and decoding tool. |
+|                        | [Shodan](https://www.shodan.io/) - A search engine for finding specific types of internet-connected devices. | [Metasploit](https://www.metasploit.com/) - A penetration testing framework for exploiting vulnerabilities. | [Wazuh](https://documentation.wazuh.com/current/) - A SIEM solution for monitoring logs and analyzing alerts. |                                                  |
+|                        | [Wireshark](https://www.wireshark.org/) - A packet analyzer used for network troubleshooting and analysis. |                                               |                                          |                                                  |
 
-### Network  
-- [Nmap](https://nmap.org/): A network scanning tool used for discovering hosts and services.  
-- [Shodan](https://www.shodan.io/): A search engine for finding specific types of internet-connected devices.  
-- [Wireshark](https://www.wireshark.org/): A packet analyzer used for network troubleshooting and analysis.  
-
-### Pentesting  
-- [Burp Suite](https://portswigger.net/burp): A web application security testing platform.  
-- [Metasploit](https://www.metasploit.com/): A penetration testing framework for exploiting vulnerabilities.  
-
-### SIEM  
-- [Elastic SIEM](https://www.elastic.co/security/siem): A security analytics tool for investigating alerts and differentiating between true and false positives.  
-- [Wazuh](https://documentation.wazuh.com/current/): A SIEM solution for monitoring logs and analyzing alerts.  
-
-### Utilities  
-- [CyberChef](https://gchq.github.io/CyberChef/): A versatile data analysis and decoding tool.  
 
 ## Certifications 🖤  
 *Currently exploring training and certification options to enhance my skills and validate expertise.*  
