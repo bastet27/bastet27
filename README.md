@@ -11,13 +11,13 @@ The purpose of my GitHub is to track my learning, monitor my progress, and showc
 
 | Skill                              | Description                                                                                       | Project                                |
 |------------------------------------|---------------------------------------------------------------------------------------------------|----------------------------------------|
-| Cryptographic Analysis             | Solved cipher, hashing, and decryption challenges.                                                | [WiCyS SANS Security Scholarship](#)  |
+| Cryptographic Analysis             | Solved cipher, hashing, and decryption challenges.                                                | [WiCyS SANS Security Scholarship](https://github.com/bastet27/Tier2-WiCys-CTF-2024)  |
 | Digital Forensics and Incident Response (DFIR) | Analyzed PCAP files, reconstructed events, and recovered critical data during investigations.       | [TryHackMe Advent of Cyber 2024](#)   |
-| Exploit Development                | Leveraged tools like Metasploit for identifying and exploiting vulnerabilities.                   | [WiCyS SANS Security Scholarship](#)  |
+| Exploit Development                | Leveraged tools like Metasploit for identifying and exploiting vulnerabilities.                   | [WiCyS SANS Security Scholarship](https://github.com/bastet27/Tier2-WiCys-CTF-2024)  |
 | Log Analysis                       | Investigated and filtered logs to identify true positives and false positives in SIEM solutions.  | [TryHackMe Advent of Cyber 2024](#)   |
-| Pentesting                         | Conducted web exploitation tasks, such as brute-forcing and SQL injection, during CTF challenges. | [WiCyS SANS Security Scholarship](#)  |
+| Pentesting                         | Conducted web exploitation tasks, such as brute-forcing and SQL injection, during CTF challenges. | [WiCyS SANS Security Scholarship](https://github.com/bastet27/Tier2-WiCys-CTF-2024)  |
 | SIEM Monitoring and Alert Analysis | Configured and used Wazuh for log monitoring, alert generation, and analysis.                     | [SOC Automation Lab](https://github.com/bastet27/SOC-Lab1) |
-| Vulnerability Scanning             | Used tools like Nmap and Shodan for scanning, discovery, and assessing open ports and services.   | [WiCyS SANS Security Scholarship](#)  |
+| Vulnerability Scanning             | Used tools like Nmap and Shodan for scanning, discovery, and assessing open ports and services.   | [WiCyS SANS Security Scholarship](https://github.com/bastet27/Tier2-WiCys-CTF-2024)  |
 
 ## Tools 🖤
 
@@ -61,7 +61,7 @@ The purpose of my GitHub is to track my learning, monitor my progress, and showc
       - Evaluated personal branding and body language for self-presentation in cybersecurity.  
       - Attended webinars on understanding CyberGEN.IQ results and aligning goals.  
 
-- **[WiCyS SANS Security Scholarship](#)**  
+- **[WiCyS SANS Security Scholarship](https://github.com/bastet27/Tier2-WiCys-CTF-2024)**  
   Advanced to Tier 3 of this competitive, multi-tiered scholarship program aimed at identifying and developing cybersecurity talent.  
   - **Tier 1:** Participated in the SANS BootUp CTF challenge hosted on the Ranges.io platform. Placed **363rd out of 2000 participants** to advance to Tier 2.  
   - **Tier 2:** Completed structured TryHackMe learning paths (*Intro to Cybersecurity*, *Pre-Security*, *Jr. Pen Tester*, and *Cybersecurity 101*) and participated in a CTF challenge. Advanced to **Tier 3** as one of 350 participants.  
