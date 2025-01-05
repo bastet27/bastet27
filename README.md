@@ -45,6 +45,13 @@ The purpose of my GitHub is to track my learning, monitor my progress, and showc
   - **Key Focus Areas:** Tasks include malware analysis, reverse engineering, log analysis, web security, and cryptographic challenges.  
   - **Progress:** Successfully completed Days 1 through 23, with detailed write-ups for each challenge to be shared post-event.  
 
+- **[MagicMirror for Raspberry Pi](https://github.com/bastet27/Raspberry-Pi-Projects/blob/main/MagicMirror/readme.md)**  
+  Built a Mini MagicMirror to serve as a desktop planner for tracking to-do lists, calendar events, and more.  
+  - **Key Features:**  
+    - Uses a Raspberry Pi 3 Model B and a 7" screen for a compact setup.  
+    - Displays customized modules for Google Calendar and to-do lists.  
+    - Serves as a highly functional addition to my workspace.  
+
 - **[WiCyS Mentorship Program](#)**  
  Participating in this 9-month mentorship program to develop professional skills and advance my expertise in cybersecurity.
   - **Session Topics:**  
@@ -67,3 +74,6 @@ The purpose of my GitHub is to track my learning, monitor my progress, and showc
   - **Tier 2:** Completed structured TryHackMe learning paths (*Intro to Cybersecurity*, *Pre-Security*, *Jr. Pen Tester*, and *Cybersecurity 101*) and participated in a CTF challenge. Advanced to **Tier 3** as one of 350 participants.  
   - **Tier 3:** Completed the CyberGen.iQ assessment, which evaluated critical thinking and personality traits. Advancement to Tier 4 will depend on Tier 1 and Tier 2 performance, along with the essay submitted in the initial application.  
   - **Current Status:** Awaiting results for Tier 4 eligibility.  
+```
+
+This version includes your MagicMirror project in the "Projects" section and links to your detailed setup. Let me know if you'd like to refine it further!
