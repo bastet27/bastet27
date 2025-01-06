@@ -46,11 +46,15 @@ The purpose of my GitHub is to track my learning, monitor my progress, and showc
   - **Progress:** Successfully completed Days 1 through 23, with detailed write-ups for each challenge to be shared post-event.  
 
 - **[MagicMirror for Raspberry Pi](https://github.com/bastet27/Raspberry-Pi-Projects/blob/main/MagicMirror/readme.md)**  
-  Built a Mini MagicMirror to serve as a desktop planner for tracking to-do lists, calendar events, and more.  
+  Built a Mini MagicMirror to serve as a desktop planner for tracking calendar events, weather updates, and more.  
   - **Key Features:**  
     - Uses a Raspberry Pi 3 Model B and a 7" screen for a compact setup.  
-    - Displays customized modules for Google Calendar and to-do lists.  
-    - Serves as a highly functional addition to my workspace.  
+    - Displays customized modules for:
+      - **Clock**: Includes moon phase settings for sunrise, sunset, moonrise, and moonset times.  
+      - **Weather**: Provides daily weather updates.  
+      - **Calendar**: Syncs with iCloud calendars using a guide from the MagicMirror forum.  
+    - Features a custom wallpaper styled using a `custom.css` file.  
+    - Serves as a highly functional addition to my workspace, helping me stay organized and productive.  
 
 - **[WiCyS Mentorship Program](#)**  
  Participating in this 9-month mentorship program to develop professional skills and advance my expertise in cybersecurity.
