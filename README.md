@@ -12,9 +12,9 @@ The purpose of my GitHub is to track my learning, monitor my progress, and showc
 | Skill                              | Description                                                                                       | Project                                |
 |------------------------------------|---------------------------------------------------------------------------------------------------|----------------------------------------|
 | Cryptographic Analysis             | Solved cipher, hashing, and decryption challenges.                                                | [WiCyS SANS Security Scholarship](https://github.com/bastet27/Tier2-WiCys-CTF-2024)  |
-| Digital Forensics and Incident Response (DFIR) | Analyzed PCAP files, reconstructed events, and recovered critical data during investigations.       | [TryHackMe Advent of Cyber 2024](#)   |
+| Digital Forensics and Incident Response (DFIR) | Analyzed PCAP files, reconstructed events, and recovered critical data during investigations.       | [TryHackMe Advent of Cyber 2024](https://github.com/bastet27/THM-Advent-of-Cyber-2024)   |
 | Exploit Development                | Leveraged tools like Metasploit for identifying and exploiting vulnerabilities.                   | [WiCyS SANS Security Scholarship](https://github.com/bastet27/Tier2-WiCys-CTF-2024)  |
-| Log Analysis                       | Investigated and filtered logs to identify true positives and false positives in SIEM solutions.  | [TryHackMe Advent of Cyber 2024](#)   |
+| Log Analysis                       | Investigated and filtered logs to identify true positives and false positives in SIEM solutions.  | [TryHackMe Advent of Cyber 2024](https://github.com/bastet27/THM-Advent-of-Cyber-2024)   |
 | Pentesting                         | Conducted web exploitation tasks, such as brute-forcing and SQL injection, during CTF challenges. | [WiCyS SANS Security Scholarship](https://github.com/bastet27/Tier2-WiCys-CTF-2024)  |
 | SIEM Monitoring and Alert Analysis | Configured and used Wazuh for log monitoring, alert generation, and analysis.                     | [SOC Automation Lab](https://github.com/bastet27/SOC-Lab1) |
 | Vulnerability Scanning             | Used tools like Nmap and Shodan for scanning, discovery, and assessing open ports and services.   | [WiCyS SANS Security Scholarship](https://github.com/bastet27/Tier2-WiCys-CTF-2024)  |
@@ -40,7 +40,7 @@ The purpose of my GitHub is to track my learning, monitor my progress, and showc
     - Configured firewall rules and security groups for secure access to the Wazuh dashboard.  
     - Future plans include integrating SOAR tools like Shuffle and case management solutions like The Hive to enhance automation and incident response capabilities.  
 
-- **[TryHackMe Advent of Cyber 2024](#)**  
+- **[TryHackMe Advent of Cyber 2024](https://github.com/bastet27/THM-Advent-of-Cyber-2024)**  
   Participating in this annual month-long challenge, which involves solving practical cybersecurity tasks in a holiday-themed narrative.  
   - **Key Focus Areas:** Tasks include malware analysis, reverse engineering, log analysis, web security, and cryptographic challenges.  
   - **Progress:** Successfully completed Days 1 through 23, with detailed write-ups for each challenge to be shared post-event.  
